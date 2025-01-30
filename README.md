@@ -1,5 +1,9 @@
 # Testimonials📖
 
+![Screenshot 2025-01-31 011444](https://github.com/user-attachments/assets/b7e00a4b-3d23-4752-8349-bda08eff30bd)
+
+![Screenshot 2025-01-31 011436](https://github.com/user-attachments/assets/cfa70599-311f-494a-a8ea-654b21312686)
+
 This is a **Testimonial Slider** built with **React** and **Tailwind CSS**. It allows users to navigate through different testimonials using left and right buttons, and also provides a "Surprise Me" button to display a random testimonial.
 
 ### **Features**
